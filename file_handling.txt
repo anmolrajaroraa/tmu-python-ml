@@ -1,0 +1,9 @@
+File Handling
+
+Three modes - r,w,a
+
+Binary - rb, wb, ab
+
+r+ -> read and write mode (doesn’t create new file)
+w+ -> write and read mode (creates a new file)
+a+ -> append and read mode (creates a new file)
